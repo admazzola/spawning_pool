@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.date = "2016-02-12"
   s.description = "A rake task manager to allow migrating and rollbacks for any of your tasks."
   s.email = "admazzola@gmail.com"
-  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/spawningpool.rb"]
-  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "init.rb", "lib/spawningpool.rb", "spawning_pool.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/generators/spawning_pool_generator.rb", "lib/spawningpool.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.rdoc", "Rakefile", "init.rb", "lib/generators/spawning_pool_generator.rb", "lib/spawningpool.rb", "spawning_pool.gemspec"]
   s.homepage = "http://github.com/admazzola/spawning_pool"
   s.rdoc_options = ["--line-numbers", "--title", "Spawning_pool", "--main", "README.rdoc"]
   s.rubyforge_project = "spawning_pool"

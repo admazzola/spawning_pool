@@ -1,1 +1,0 @@
-A rake task manager to allow migrating and rollbacks for any of your tasks.

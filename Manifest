@@ -1,0 +1,7 @@
+CHANGELOG
+Manifest
+README.rdoc
+Rakefile
+init.rb
+lib/spawningpool.rb
+spawning_pool.gemspec
